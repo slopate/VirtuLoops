@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.audiotesting.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\BR_Admin\\Desktop\\SamVR\\Audio Testing (3)\\Audio Testing\\Audio Testing\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Audio Testing [Testing]"
+        }
+      }
+    }
+  ]
+}
