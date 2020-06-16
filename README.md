@@ -17,4 +17,5 @@ VirtuLoops is not currently configured for download or open use.
 # Credits
 
 Created and Developed by Sam Lopate
+
 All sounds and samples created by Sam Lopate
